@@ -1,4 +1,14 @@
 # DigestAI
+
+## Architecture
+
+```mermaid
+flowchart LR
+  P[Research paper PDF] --> X[Text extraction]
+  X --> A[Analysis pipeline]
+  A --> L[LLM summarisation]
+  L --> O[Digest, notes, and insights]
+```
 **Research Paper Digestion Powered by AI**
 
 DigestAI is a lightweight tool that takes research papers (PDFs) and automatically generates:  
