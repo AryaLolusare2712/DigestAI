@@ -1,5 +1,9 @@
 # DigestAI
 
+## Project contribution
+
+Reduces the time needed to understand research papers by extracting key material and producing concise, actionable digests.
+
 ## Architecture
 
 ```mermaid
